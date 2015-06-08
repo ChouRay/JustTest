@@ -3,4 +3,5 @@ Git is free software.
 #2015-6-7
 hello git
 Git hs a matable index called stage
-Git track changes.
+Git track changes of file.
+boss is stupid.haha
